@@ -1,1 +1,3 @@
-neo.hello=hello,Test environment
+neo:
+  hello:
+    hello,Test environment

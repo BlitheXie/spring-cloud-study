@@ -1,1 +1,3 @@
-neo.hello=hello,DEV environment
+neo:
+  hello:
+    hello,DEV environment

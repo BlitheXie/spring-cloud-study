@@ -1,1 +1,3 @@
-neo.hello=hello,PROD environment
+neo:
+  hello:
+    hello,PROD environment
